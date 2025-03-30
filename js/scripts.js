@@ -1,4 +1,3 @@
-
 gsap.registerPlugin(CustomEase);
 
 gsap.set(".nav",{display:"none"})
