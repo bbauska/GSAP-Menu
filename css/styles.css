@@ -27,11 +27,11 @@
   pointer-events: auto;
   justify-content: space-between;
   align-items: center;
-  width: 13em;
+  width: 15em;  /* 13em; */
   display: flex;
 }
 .nav-logo__wordmark {
-  width: 4em;
+  width: 3.5em;  /* 4em; */
 }
 .nav-logo__icon {
   width: 1.5em;
@@ -206,9 +206,9 @@ p {
   z-index: 1;
   text-transform: uppercase;
   font-family: PP Neue Corp Tight, Arial, sans-serif;
-  font-size: 3.0em;  /* 5.625em; */
+  font-size: 3.5em;  /* 5.625em; */
   font-weight: 700;
-  line-height: .50;  /* .75 */
+  line-height: .75;  /* .75 */
   transition: transform .55s cubic-bezier(.65, .05, 0, 1);
   position: relative;
 }
