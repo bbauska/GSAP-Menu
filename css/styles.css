@@ -206,7 +206,7 @@ p {
   z-index: 1;
   text-transform: uppercase;
   font-family: PP Neue Corp Tight, Arial, sans-serif;
-  font-size: 4.0em;  /* 5.625em; */
+  font-size: 3.0em;  /* 5.625em; */
   font-weight: 700;
   line-height: .50;  /* .75 */
   transition: transform .55s cubic-bezier(.65, .05, 0, 1);
@@ -367,10 +367,10 @@ p {
     border-bottom-left-radius: 0;
   }
   .menu-list-item {
-    height: 3.75em;  /* 4.5em */
+    height: 4.0em;  /* 4.5em */
   }
   .menu-link-heading {
-    font-size: 3.25em;  /* 4em */
+    font-size: 3.5em;  /* 4em */
   }
   .socials-row {
     grid-column-gap: 1em;
