@@ -27,7 +27,7 @@
   pointer-events: auto;
   justify-content: space-between;
   align-items: center;
-  width: 17em;  /* 13em; */
+  width: 15em;  /* 17. 13em; */
   display: flex;
 }
 .nav-logo__wordmark {
@@ -137,7 +137,7 @@ p {
   flex-flow: column;
   justify-content: space-between;
   align-items: flex-start;
-  width: 40em;  /* 35em */
+  width: 35em;  /* 40em, 35em */
   height: 100%;
   margin-left: auto;
   position: relative;
